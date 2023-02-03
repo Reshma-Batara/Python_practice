@@ -1,0 +1,8 @@
+x=int(input("First number:"))
+y=int(input("Second number:"))
+print("Sum=",x+y)
+print("Difference=",x-y)
+print("Product=",x*y)
+print("Quotient=",x/y)
+print("Remainder=",y%x)
+print("Floor division=",x//y)
